@@ -1,0 +1,14 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "port": 5432,
+  "username": "postgres",
+  "password": "1q2w3e4r",
+  "database": "alpha_tower",
+
+  "entities": ["./src/modules/**/typeorm/entities/*.ts"],
+  "migrations": ["./src/shared/database/migrations/*.ts"],
+    "cli": {
+        "migrationsDir": "./src/shared/database/migrations"
+    }
+}
