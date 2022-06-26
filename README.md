@@ -37,7 +37,7 @@ cd Alpha-Tower
 yarn install
 
 # run the project
-yarn start
+yarn start:dev
 ```
 
 &nbsp;&nbsp;&nbsp;
@@ -45,7 +45,5 @@ yarn start
 # Author
 
 Fernando Britto
-
-<https://fernandobritto.github.io/>
 
 <https://br.linkedin.com/in/fernando-britto-web-developer>
