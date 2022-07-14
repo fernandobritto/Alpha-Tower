@@ -1,4 +1,4 @@
-import AppError from '@shared/erros/AppError'
+import AppError from '@shared/errors/AppError'
 import path from 'path'
 import fs from 'fs'
 import { getCustomRepository } from 'typeorm'
