@@ -46,4 +46,4 @@ yarn start:dev
 
 Fernando Britto
 
-<https://br.linkedin.com/in/fernando-britto-web-developer>
+<https://br.linkedin.com/in/fernando-britto>
