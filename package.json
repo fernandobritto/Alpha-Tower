@@ -4,6 +4,8 @@
   "description": "API Restful developed in Node JS to control sales proposals and clients",
   "main": "server.ts",
   "scripts": {
+    "build": "tsc --project tsconfig.json",
+    "start": "node build/shared/http/server.js",
     "localhost": "ts-node-dev -r tsconfig-paths/register --inspect --transpile-only --ignore-watch node_modules src/shared/http/server.ts",
     "test": "jest",
     "test:silent": "jest --watchAll --silent",
