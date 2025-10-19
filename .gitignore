@@ -53,6 +53,8 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+.env.docker
+.env.production
 
 # OS generated files
 .DS_Store
